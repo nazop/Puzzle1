@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/game/puzzle1/title.unity
+  isLoaded: 1
+  isActive: 1
